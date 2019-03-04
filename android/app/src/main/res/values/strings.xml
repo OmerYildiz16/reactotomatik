@@ -1,3 +1,4 @@
 <resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">vkgbSmJ5KkQRcd3Rwh-G2h1FlPD4H1kxyIcUN</string>
     <string name="app_name">reactotomatik</string>
 </resources>
